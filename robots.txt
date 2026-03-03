@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lab-mates.github.io/sitemap.xml
