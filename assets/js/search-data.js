@@ -30,16 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-prueba-de-anuncio",
-          title: 'Prueba de anuncio.',
+        },{id: "news-the-mates-lab-website-is-now-up-rocket-stay-tuned-for-more-content",
+          title: 'The MatES-Lab website is now up :rocket:. Stay tuned for more content!',
           description: "",
           section: "News",},{id: "projects-2d-nanomaterials",
           title: '2D nanomaterials',
