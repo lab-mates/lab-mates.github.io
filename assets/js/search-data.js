@@ -37,27 +37,27 @@ ninja.data = [{
           title: '2D nanomaterials',
           description: "for green energy storage and beyond",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2d-nanomaterials/";
+              window.location.href = "/projects/2d-nanomaterials.html";
             },},{id: "projects-architected-carbon-lattices",
           title: 'Architected carbon lattices',
           description: "via 3D printing and pyrolysis",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/carbon-microlattices/";
+              window.location.href = "/projects/carbon-microlattices.html";
             },},{id: "projects-catalytic-graphitization",
           title: 'Catalytic graphitization',
           description: "to produce more sustainable graphite",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/catalytic-graphitization/";
+              window.location.href = "/projects/catalytic-graphitization.html";
             },},{id: "projects-beyond-li-batteries",
           title: 'Beyond Li-batteries',
           description: "Electro-active materials and their interfaces",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/electro-active-materials/";
+              window.location.href = "/projects/electro-active-materials.html";
             },},{id: "projects-radioactive-waste-management",
           title: 'Radioactive Waste Management',
           description: "through advanced materials",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/nuclear-waste/";
+              window.location.href = "/projects/nuclear-waste.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
